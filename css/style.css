@@ -1,15 +1,35 @@
-.panda-bg-info{
-    background-color: #fceae8;
+.panda-bg-info {
+  background-color: #fceae8;
 }
 
-.panda-img img{
-    width: 100px;
+.panda-img img {
+  width: 100px;
 }
 
-.panda-buy-btn{
-    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
-    color: #fff;
-    border: none;
-    border-radius: 8px;
-    padding: 9px 25px;
+.bg-info-color {
+  background-color: aqua;
+}
+
+.panda-buy-btn {
+  background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 9px 25px;
+}
+
+.panda-buy-btn-subscribe {
+  background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 9px 25px;
+}
+
+.panda-buy-btn-carousel {
+  background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 9px 25px;
 }
